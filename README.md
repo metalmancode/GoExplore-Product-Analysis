@@ -1,4 +1,4 @@
-##GoExplore - Product Performance Analysis
+## GoExplore - Product Performance Analysis
 
 This project is an end-to-end analysis of product sales performance for GoExplore, a retail company. The goal was to build a dynamic dashboard for the executive (Sabah), finance (Sarah), and retail (Dustin) teams to identify key profit drivers and market opportunities.
 
